@@ -1,0 +1,15 @@
+&share
+ens_size=1,
+fnames_model='/glade/scratch/schwartz/diags_d02_2017071000_mem_9_f043.nc',
+fnames_model_prev_hour='/glade/scratch/schwartz/diags_d02_2017071000_mem_9_f042.nc',
+fname_grid_info='/glade/p/nmmm0001/schwartz/rt_ensemble/wrfinput_d02'
+search_radius_precip=40,     ! distance within which to search for precip >= precip_thresh 
+precip_thresh = 0.00001
+search_radius_refl=40,       ! distance within which to search for column-max reflectivity >= refl_thresh
+refl_thresh = 10.0
+output_file_prefix='test',
+/
+fnames_model='/glade/scratch/bresch/jfsp/data/hrrr_170702_18_18.grb2',
+fnames_model_prev_hour='/glade/scratch/bresch/jfsp/data/hrrr_170702_18_17.grb2',
+fname_grid_info='/glade/p/mmm/schwartz/jfsp/hrrr_wps/geo_em.d01.nc',
+

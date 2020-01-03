@@ -1,0 +1,17 @@
+&share
+ens_size=10,
+input_file_list='./fnames_ensemble.txt',
+input_file_list_prev_hour='./fnames_ensemble_prev.txt',
+output_file_list='./fnames_output.txt'
+fname_grid_info='/glade/p/mmm/parc/schwartz/rt_ensemble/wrfinput_d02',
+search_radius_precip=40,     ! distance (km) within which to search for precip >= precip_thresh
+precip_thresh = 0.10
+search_radius_refl=-1       ! distance (km) within which to search for column-max reflectivity >= refl_thresh
+refl_thresh = 10.0,
+wind_diff_min_mag = 3.0,
+wind_diff_min_ang = 10.0,
+gaussian_length_scale=6
+nms_window_size=10
+num_binary_dilations=0
+min_gf_size=10
+/

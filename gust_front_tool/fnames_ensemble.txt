@@ -1,0 +1,10 @@
+diags_d02_2017090800_mem_1_f024.nc
+diags_d02_2017090800_mem_2_f024.nc
+diags_d02_2017090800_mem_3_f024.nc
+diags_d02_2017090800_mem_4_f024.nc
+diags_d02_2017090800_mem_5_f024.nc
+diags_d02_2017090800_mem_6_f024.nc
+diags_d02_2017090800_mem_7_f024.nc
+diags_d02_2017090800_mem_8_f024.nc
+diags_d02_2017090800_mem_9_f024.nc
+diags_d02_2017090800_mem_10_f024.nc

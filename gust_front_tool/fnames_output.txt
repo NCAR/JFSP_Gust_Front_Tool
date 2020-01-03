@@ -1,0 +1,10 @@
+./gf_tool_mem1_2017090800_f024.nc
+./gf_tool_mem2_2017090800_f024.nc
+./gf_tool_mem3_2017090800_f024.nc
+./gf_tool_mem4_2017090800_f024.nc
+./gf_tool_mem5_2017090800_f024.nc
+./gf_tool_mem6_2017090800_f024.nc
+./gf_tool_mem7_2017090800_f024.nc
+./gf_tool_mem8_2017090800_f024.nc
+./gf_tool_mem9_2017090800_f024.nc
+./gf_tool_mem10_2017090800_f024.nc
