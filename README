@@ -1,9 +1,21 @@
+JFSP Gust Front Tool Version 1.0   12/30/19
 
-NCAR gust front tool  (ncar_gft) Version 1.0   12/30/19
+Note: Two files are needed for the gust front tool that are 
+not in the Github repository.  They are the following.
+
+(i) ens_mapfac.nc
+(ii) hrrr_geo.nc
+
+They are to be placed in the directory: gust_front_tool/con
+They can be downloaded from the follwoing site, which contains the
+full JFSP gust front tool tar file:
+
+https://www2.mmm.ucar.edu/JFSP/ .
+
+The file is: gust_front_tool.tar.gz .
 
 
-
-List of files and directories
+List of Files and Directories
 
 advance_time.csh  :  Script to manipulate date strings used in the system
 con  :  Directory containing NETcdf files describing the model output files (HRRR and NCAR ensemble)
