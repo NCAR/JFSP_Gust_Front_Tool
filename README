@@ -1,0 +1,21 @@
+
+NCAR gust front tool  (ncar_gft) Version 1.0   12/30/19
+
+
+
+List of files and directories
+
+advance_time.csh  :  Script to manipulate date strings used in the system
+con  :  Directory containing NETcdf files describing the model output files (HRRR and NCAR ensemble)
+Doc  :  Directory containing the gust front tool documentation
+input.nml  :  input namelist for the gust front tool Fortran program (created by run_gf_tool.csh)
+interp_urma.csh  :  used for processing NCEP's Unified Realtime Mesoscale Analysis
+make_python_plots.csh   :  Script to plot the gust front tool output using Python
+merge_2015_ncar_ens_files.csh  :  Puts PSFC into the diag file for NCAR ensemble runs prior to Nov. 2015
+plot_gf.ncl   :  NCL script to plot output from the gust front tool 
+run_gf_tool.csh   : Script to run the Fortran gust front tool
+webplot.py, fieldinfo.py, make_webplot.py  : Python files for plotting gust front tool output
+
+
+'make'   builds the gft fortran code
+'make clean'   removes the executables and object files
